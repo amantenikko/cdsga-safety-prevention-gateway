@@ -30,8 +30,8 @@
 //#define pin 19 - Can't Use due to I2C
 
 #define tempAbsAdjusted 0.0
-//#define tempDistanceMax 2.5
-//#define tempDistanceMin 0.5
+#define tempDistanceMax 2.5
+#define tempDistanceMin 0.5
 #define tempScanSize 3
 #define tempScanMin 1
 
